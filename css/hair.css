@@ -1,0 +1,55 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+.navbar
+{
+      background: lightpink;
+}
+.navbar-nav li{
+      padding: 0 10px;
+
+ }
+.navbar-nav li a
+{
+      color: #fff!important;
+      font-weight: 600;
+      font-size: 20px;
+}
+.navbar-brand h4{
+  font-style: oblique;
+  margin-left: 80px;
+  margin-top: -50px;
+}
+.carousel-inner img{
+  height: 700px;
+  font-family: monospace;
+}
+.j{
+     margin-top: 100px;
+     border-radius: 10px ;
+     
+
+}
+.k{
+  margin-left: 10px;
+}
+.footer{
+  background-color: black;
+  color: whitesmoke;
+
+
+}
+.footer_icon{
+  padding: 0;
+  height: 30px;
+  width: 30px;
+  background-color: gray;
+  color: white;
+  text-align: center;
+  margin: -37px 10px 10px 0;
+  justify-content: center
+  
+}
+
+
